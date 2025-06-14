@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently Mastering on **JAVA**
 
-- 🌱 I’m currently learning **MYSQL,JDBC,SPRING BOOT,**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Dhanalekshmi26](https://github.com/Dhanalekshmi26)
 
 - 📫 How to reach me **dhanalekshmiab@gmail.com**
