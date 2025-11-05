@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dhanalekshmi Vipinkumar</h1>
-<h3 align="center">A Highly Motivated Passionated Java Full Stack Developer</h3>
+<h3 align="center">Software Engineer at Datafusing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanalekshmi26&label=Profile%20views&color=0e75b6&style=flat" alt="dhanalekshmi26" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanalekshmi26" alt="dhanalekshmi26" /></a> </p>
+👋 Hi, I’m Dhanalekshmi Vipinkumar
 
-- 🔭 I’m currently Mastering on **JAVA**
+💼 I’m a Software Engineer (SQL Developer) at DataFusing, Cherthala, Kerala — an Oracle Partner.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dhanalekshmi26](https://github.com/Dhanalekshmi26)
+🧠 I specialize in SQL and Oracle Cloud technologies, focusing on transforming raw data into meaningful business insights.
 
-- 📫 How to reach me **dhanalekshmiab@gmail.com**
+⚙️ I work with CloudSQL, CloudMigrate, and other Oracle tools to enable seamless data migrations and efficient database management for global clients.
+
+💡 Passionate about data optimization, ETL processes, and database performance tuning in Oracle Fusion environments.
+
+👨‍💻 All of my projects are available at [https://github.com/Dhanalekshmi26](https://github.com/Dhanalekshmi26)
+
+📫 Reach me at **dhanalekshmiab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
