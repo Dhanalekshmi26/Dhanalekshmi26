@@ -14,7 +14,7 @@
 
 💡 Passionate about data optimization, ETL processes, and database performance tuning in Oracle Fusion environments.
 
-👨‍💻 All of my projects are available at [https://github.com/Dhanalekshmi26](https://github.com/Dhanalekshmi26)
+👨‍💻 All of my projects are available at **[https://github.com/Dhanalekshmi26](https://github.com/Dhanalekshmi26)**
 
 📫 Reach me at **dhanalekshmiab@gmail.com**
 
