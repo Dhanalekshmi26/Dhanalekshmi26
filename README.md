@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanalekshmi26" alt="dhanalekshmi26" /></a> </p>
 👋 Hi, I’m Dhanalekshmi Vipinkumar
 
-💼 I’m a Software Engineer (SQL Developer) at DataFusing, Cherthala, Kerala — an Oracle Partner.
+💼 I’m a Software Engineer (PL/SQL Developer) at DataFusing, Cherthala, Kerala — an Oracle Partner.
 
-🧠 I specialize in SQL and Oracle Cloud technologies, focusing on transforming raw data into meaningful business insights.
+🧠 I specialize in PL/SQL and Oracle Cloud technologies, focusing on transforming raw data into meaningful business insights.
 
 ⚙️ I work with CloudSQL, CloudMigrate, and other Oracle tools to enable seamless data migrations and efficient database management for global clients.
 
